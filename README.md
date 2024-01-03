@@ -1,6 +1,4 @@
-# Project Title: Mancala Game 
-
-Simple overview of use/purpose.
+# Mancala Game 
 
 ## Description
 
@@ -25,44 +23,10 @@ Describe any prerequisites, libraries, OS version, etc., needed before installin
 ```
 To build the game, follow:
 
-Make sure you are at root directory named: GP4
 1. Complie the files using : gradle build
 2. Run the TextUI class: gradle echo to print the command on terminal 
     jar - jar build/libs/TextUI.jar
 ```
-
-
-## Limitations
-
-What isn't done? What things cause errors? 
-
-The game functions properly and follows the rules of the game.
-
-## Author Information
-```
-Name: Ishnoor Kaur 
-Email: ishnoor@uoguelph.ca 
-Student ID: 1226429
-```
-
-
-## Development History
-
-Keep a log of what things you accomplish when.  You can use git's tagging feature to tag the versions or you can reference commits.
-
-* 0.5 
-    * Final Touches 
-* 0.5 
-    * GUI 
-* 0.4 
-    * Added Serialization and AyoRules & KalahRules
-* 0.3
-    * Refactoring the files
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## Acknowledgments
 
@@ -71,7 +35,4 @@ Inspiration, code snippets, etc.
 - [Online Mancala Game](https://www.mathsisfun.com/games/mancala.html)
 - [awesome-readme](https://github.com/matiassingers/awesome-readme)
 - [simple-readme](https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md)
-
-
-
 
